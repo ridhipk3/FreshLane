@@ -19,6 +19,7 @@ SHOP_NAME = "FreshLane Supermarket"
 SHOP_ADDRESS = "Bengaluru, Karnataka"
 SHOP_PHONE = "9865473210"
 DATABASE = "supermarket.db"
+st.write("DATABASE TEST:", DATABASE)
 
 RECEIPT_WIDTH = 48
 
